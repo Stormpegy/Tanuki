@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name tanuki_pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/tanuki_pcb-rescue.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri "${KIPRJMOD}/libs and footprints/Type-C.pretty-master/Type-C.lib")(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri "${KIPRJMOD}/libs and footprints/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+)
